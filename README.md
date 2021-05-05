@@ -26,7 +26,7 @@ You are provided with daily historical sales data. The task is to forecast the t
 ```
 
 **Data Fields**
-```
+
 **ID** - an Id that represents a (Shop, Item) tuple within the test set
 
 **shop_id** - unique identifier of a shop
@@ -48,5 +48,5 @@ You are provided with daily historical sales data. The task is to forecast the t
 **shop_name** - name of shop
 
 **item_category_name** - name of item category
-```
+
 This dataset is permitted to be used for any purpose, including commercial use.
